@@ -22,3 +22,5 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmmftg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

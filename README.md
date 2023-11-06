@@ -24,4 +24,5 @@
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/user/018b1cc0-dc64-4a4c-bf4a-194a8f3122ae.svg)](https://wakatime.com/@018b1cc0-dc64-4a4c-bf4a-194a8f3122ae)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hmmftg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

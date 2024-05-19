@@ -1,6 +1,3 @@
-[![StandWithPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/StandWithPalestine.svg)](https://github.com/karim-eg/StandWithPalestine/blob/main/Boycott.md#boycott-list-)
-[![StandWithPalestine](https://github.com/saedyousef/StandWithPalestine/blob/main/badges/flat/IStandWithPalestine.svg)](https://github.com/karim-eg/StandWithPalestine/blob/main/TrustedMedia.md#trusted-media-source-)
-
 | <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
